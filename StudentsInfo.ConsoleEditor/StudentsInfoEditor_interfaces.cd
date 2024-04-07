@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="StudentsInfo.XmlFileIoController">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAABAAAAAAAAAAAAAQCAAAgAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>XmlFileIoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.Students">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAEAAAAEAAAAAAAIAAAAAAABAAAAAA=</HashCode>
+      <FileName>Students.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.Entity">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="7.5" Y="0.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="StudentsInfo.ConsoleEditor.Program">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.DataContext">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QJIAgIAAAAAAAAAEAAAAAAAAAAAAAAAAAECAAADAAAI=</HashCode>
+      <FileName>DataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StudentsInfo.Entering">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAACBAAAAAAAAAEAAAACgAAAAA=</HashCode>
+      <FileName>Entering.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="format" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StudentsInfo.EnumerableMethods">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnumerableMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.Person">
+    <Position X="10" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAABAAAAAAAAEAAAAAAQABAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.Editor">
+    <Position X="7.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAIAAAQAAwAAIEAgEAICAAABAAAAAAIAAgEI=</HashCode>
+      <FileName>Editor.commands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.DataSet">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentsInfo.Settings">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="StudentsInfo.CommandInfo">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandInfo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="command" />
+      <Field Name="name" />
+    </ShowAsAssociation>
+  </Struct>
+  <Delegate Name="StudentsInfo.Command">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandInfo.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
